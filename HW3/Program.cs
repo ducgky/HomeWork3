@@ -53,12 +53,12 @@ class Program
                     MainMenu:
                     break;
                 case "2":
-                    int tu1 = CheckInvalidInput.NhapSoNguyen("Nhập tử số phân số 1: ");
-                    int mau1 = CheckInvalidInput.NhapSoNguyen("Nhập mẫu số phân số 1: ");
-                    int tu2 = CheckInvalidInput.NhapSoNguyen("Nhập tử số phân số 2: ");
-                    int mau2 = CheckInvalidInput.NhapSoNguyen("Nhập mẫu số phân số 2: ");
-                    PhanSo ps1 = new PhanSo(tu1, mau1);
-                    PhanSo ps2 = new PhanSo(tu2, mau2);
+                    int tuso1 = CheckInvalidInput.NhapSoNguyen("Nhập tử số phân số 1: ");
+                    int mauso1 = CheckInvalidInput.NhapSoNguyen("Nhập mẫu số phân số 1: ");
+                    int tuso2 = CheckInvalidInput.NhapSoNguyen("Nhập tử số phân số 2: ");
+                    int mauso2 = CheckInvalidInput.NhapSoNguyen("Nhập mẫu số phân số 2: ");
+                    PhanSo ps1 = new PhanSo(tuso1, mauso1);
+                    PhanSo ps2 = new PhanSo(tuso2, mauso2);
                     Console.WriteLine($"Tổng: {ps1 + ps2}");
                     Console.WriteLine($"Hiệu: {ps1 - ps2}");
                     Console.WriteLine($"Tích: {ps1 * ps2}");
