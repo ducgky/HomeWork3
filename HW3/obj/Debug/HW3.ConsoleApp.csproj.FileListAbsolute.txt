@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\bin\Debug\ClassLibraryCheckNull.Common.dll
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\bin\Debug\HW3.DataAccess.dll
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\bin\Debug\ClassLibraryCheckNull.Common.pdb
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\bin\Debug\HW3.DataAccess.pdb
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\obj\Debug\HW3.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\obj\Debug\HW3.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\obj\Debug\HW3.ConsoleApp.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\obj\Debug\HW3.pdb

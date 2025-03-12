@@ -1,0 +1,2 @@
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\obj\Debug\HW3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\BTVN BE_2025\12_03 HW3\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
